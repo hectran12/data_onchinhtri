@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Câu 1: Một trong những biểu hiện của bình đẳng về quyền và nghĩa vụ là:",
+        "options": [
+            "Ai cũng có quyền và nghĩa vụ như nhau.",
+            "Quyền công dân không tách rời nghĩa vụ công dân.",
+            "Quyền và nghĩa vụ công dân là một thể thống nhất.",
+            "Mọi người đều có quyền ưu tiên như nhau."
+        ],
+        "correct": 1,
+        "explanation": "Quyền công dân không tách rời nghĩa vụ công dân."
+    },
+    {
+        "question": "Câu 2: Quyền và nghĩa vụ của công dân được quy định trong?",
+        "options": [
+            "Đạo đức",
+            "Hiến pháp và luật.",
+            "Nội quy",
+            "Chính sách."
+        ],
+        "correct": 1,
+        "explanation": "Hiến pháp và luật."
+    },
+    {
+        "question": "Câu 3: Theo Hiến pháp và pháp luật quy định, công dân bao nhiêu tuổi có quyền bầu cử?",
+        "options": [
+            "18",
+            "19",
+            "20",
+            "21"
+        ],
+        "correct": 0,
+        "explanation": "18"
+    },
+    {
+        "question": "Câu 4: Theo quy định của Hiến pháp và pháp luật, công dân bao nhiêu tuổi có quyền ứng cử vào Quốc hội?",
+        "options": [
+            "18",
+            "19",
+            "20",
+            "21"
+        ],
+        "correct": 3,
+        "explanation": "21"
+    },
+    {
+        "question": "Câu 5: Công dân bao nhiêu tuổi thì có quyền biểu quyết khi nhà nước trưng cầu dân ý?",
+        "options": [
+            "16 tuổi trở lên",
+            "17 tuổi trở lên",
+            "18 tuổi trở lên",
+            "19 tuổi trở lên"
+        ],
+        "correct": 2,
+        "explanation": "18 tuổi trở lên"
+    },
+    {
+        "question": "Câu 6: Theo Hiến pháp nước ta quy định, đối với mỗi công dân, lao động là:",
+        "options": [
+            "Trách nhiệm",
+            "Quyền lợi",
+            "Nghĩa vụ",
+            "Quyền và nghĩa vụ"
+        ],
+        "correct": 3,
+        "explanation": "Quyền và nghĩa vụ"
+    },
+    {
+        "question": "Câu 7: Nghĩa vụ thiêng liêng của công dân là:",
+        "options": [
+            "Trung thành và bảo vệ tổ quốc.",
+            "Tham gia bầu cử, ứng cử.",
+            "Kết hôn khi đủ tuổi theo pháp luật quy định.",
+            "Lựa chọn nghề nghiệp, công việc phù hợp."
+        ],
+        "correct": 0,
+        "explanation": "Trung thành và bảo vệ tổ quốc."
+    },
+    {
+        "question": "Câu 8: Chế độ hôn nhân ở nước ta là:",
+        "options": [
+            "Hôn nhân tự nguyện tiến bộ, một vợ một chồng.",
+            "Kết hôn theo sự sắp đặt của bố mẹ.",
+            "Hôn nhân năm thê, bảy thiếp",
+            "Hôn nhân theo chế độ mẫu hệ."
+        ],
+        "correct": 0,
+        "explanation": "Hôn nhân tự nguyện tiến bộ, một vợ một chồng."
+    },
+    {
+        "question": "Câu 9: Nghĩa vụ của con đối với cha mẹ như thế nào?",
+        "options": [
+            "Yêu quý, kính trọng, biết ơn, hiếu thảo với cha mẹ.",
+            "Chăm sóc, nuôi dưỡng cha mẹ.",
+            "Nghiêm cấm con có hành vi ngược đãi, hành hạ, xúc phạm cha mẹ.",
+            "Cả a, b, c đều đúng."
+        ],
+        "correct": 3,
+        "explanation": "Cả a, b, c đều đúng."
+    },
+    {
+        "question": "Câu 10: Chọn đáp án để điền vào dấu (…) \"Người công dân tốt là người thực hiện ….của công dân theo Hiến pháp và pháp luật quy định\"?",
+        "options": [
+            "Quyền và nghĩa vụ",
+            "Quyền.",
+            "Nghĩa vụ",
+            "Trách nhiệm."
+        ],
+        "correct": 0,
+        "explanation": "Quyền và nghĩa vụ"
+    },
+    {
+        "question": "Câu 11: Chủ thể nào dưới đây được đảm bảo quyền tự do ngôn luận?",
+        "options": [
+            "Mọi công dân.",
+            "Mọi cán bộ, công chức nhà nước.",
+            "Chỉ những người từ 18 tuổi trở lên.",
+            "Chỉ nhà báo."
+        ],
+        "correct": 0,
+        "explanation": "Mọi công dân."
+    },
+    {
+        "question": "Câu 12: Công dân được làm việc, lựa chọn nghề nghiệp, việc làm, nơi làm việc, thực hiện nghĩa vụ nộp thuế thể hiện trong:",
+        "options": [
+            "Quyền và nghĩa vụ lao động của công dân.",
+            "Quyền và nghĩa vụ học tập của công dân.",
+            "Quyền tự do ngôn luận.",
+            "Quyền tham gia quản lý nhà nước và xã hội."
+        ],
+        "correct": 0,
+        "explanation": "Quyền và nghĩa vụ lao động của công dân."
+    },
+    {
+        "question": "Câu 13: Hành vi đặt điều, tung tin xấu làm ảnh hưởng đến uy tín của người khác là vi phạm quyền gì của công dân?",
+        "options": [
+            "Quyền được bất khả xâm phạm về thân thể, danh dự và nhân phẩm.",
+            "Quyền và nghĩa vụ học tập của công dân.",
+            "Quyền tự do ngôn luận.",
+            "Quyền tham gia quản lý nhà nước và xã hội."
+        ],
+        "correct": 0,
+        "explanation": "Quyền được bất khả xâm phạm về thân thể, danh dự và nhân phẩm."
+    },
+    {
+        "question": "Câu 14: Hành vi hack tài khoản cá nhân của người khác để xem, sao chép những bí mật riêng tư là vi phạm quyền gì của công dân?",
+        "options": [
+            "Quyền được bất khả xâm phạm về thân thể, danh dự và nhân phẩm.",
+            "Quyền bất khả xâm phạm về đời sống riêng tư, bí mật cá nhân và bí mật gia đình.",
+            "Quyền Tự do cư trú và đi lại.",
+            "Quyền tự do ngôn luận."
+        ],
+        "correct": 1,
+        "explanation": "Quyền bất khả xâm phạm về đời sống riêng tư, bí mật cá nhân và bí mật gia đình."
+    },
+    {
+        "question": "Câu 15: Một trong các nội dung quyền tham gia quản lý nhà nước và xã hội là quyền của công dân được tham gia:",
+        "options": [
+            "Thảo luận vào các công việc chung của đất nước.",
+            "Xây dựng văn bản pháp luật về chính trị, kinh tế.",
+            "Phê phán cơ quan nhà nước trên Facebook.",
+            "Giữ gìn an ninh, trật tự xã hội."
+        ],
+        "correct": 0,
+        "explanation": "Thảo luận vào các công việc chung của đất nước."
+    },
+    {
+        "question": "Câu 16: Người nào dưới đây không được thực hiện quyền bầu cử ?",
+        "options": [
+            "Người đang phải chấp hành án phạt tù.",
+            "Người đang bị kỷ luật ở cơ quan.",
+            "Người đang ốm nằm điều trị ở nhà.",
+            "Người đang đi công tác xa nhà"
+        ],
+        "correct": 0,
+        "explanation": "Người đang phải chấp hành án phạt tù."
+    },
+    {
+        "question": "Câu 17: Hành vi đánh đập người khác, gây thương tích là vi phạm quyền nào sau đây?",
+        "options": [
+            "Quyền bất khả xâm phạm về thân thể.",
+            "Quyền tự do ngôn luận",
+            "Quyền bất khả xâm phạm về đời sống riêng tư, bí mật cá nhân và bí mật gia đình",
+            "Quyền được bảo vệ danh dự, uy tín"
+        ],
+        "correct": 0,
+        "explanation": "Quyền bất khả xâm phạm về thân thể."
+    },
+    {
+        "question": "Câu 18: Quyền tự do ngôn luận không bao gồm hình thức nào sau đây ?",
+        "options": [
+            "Trực tiếp phát biểu ý kiến nhằm xây dựng lớp học của mình.",
+            "Viết bài gửi đăng báo, trong đó bày tỏ ý kiến phê phán cái sai, cái xấu trong đời sống xã hội.",
+            "Viết thư gửi cho lãnh đạo trình bày những vấn đề bản thân quan tâm.",
+            "Viết bài phê phán những người mình không thích và đăng lên facebook."
+        ],
+        "correct": 3,
+        "explanation": "Viết bài phê phán những người mình không thích và đăng lên facebook."
+    },
+    {
+        "question": "Câu 19: Nghĩa vụ thiêng liêng của công dân là gì?",
+        "options": [
+            "Trung thành và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+            "Tham gia các hoạt động từ thiện.",
+            "Tự do ngôn luận, tự do báo chí.",
+            "Tiếp thu văn hóa của nước ngoài."
+        ],
+        "correct": 0,
+        "explanation": "Trung thành và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
+    },
+    {
+        "question": "Câu 20: Biểu hiện của bình đẳng trong hôn nhân là:",
+        "options": [
+            "Người chồng phải giữ vai trò chính trong đóng góp về kinh tế và quyết định công việc lớn trong gia đình.",
+            "Công việc của người vợ là nội trợ gia đình và chăm sóc con cái.",
+            "Vợ, chồng cùng bàn bạc, tôn trọng ý kiến của nhau trong việc quyết định các công việc của gia đình.",
+            "Chỉ có người chồng mới có quyền lựa chọn nơi cư trú, quyết định số con và thời gian sinh con"
+        ],
+        "correct": 2,
+        "explanation": "Vợ, chồng cùng bàn bạc, tôn trọng ý kiến của nhau trong việc quyết định các công việc của gia đình."
+    }
+]
