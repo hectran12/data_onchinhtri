@@ -1,0 +1,332 @@
+[
+    {
+        "question": "Câu 1: Nền tảng của công nghiệp hóa, hiện đại hóa đất nước là gì?",
+        "options": [
+            "Bản sắc dân tộc",
+            "Giáo dục và đào tạo",
+            "Khoa học và công nghệ",
+            "Quốc phòng và an ninh."
+        ],
+        "correct": 2,
+        "explanation": "Khoa học và công nghệ"
+    },
+    {
+        "question": "Câu 2: Thực chất của Công nghiệp hóa – Hiện đại hóa ở nước ta là gì?",
+        "options": [
+            "Quá trình tạo ra những tiền đề vật chất, kỹ thuật, về con người, công nghệ, phương tiện...cho Chủ nghĩa xã hội.",
+            "Tái sản xuất mở rộng.",
+            "Cải thiện và nâng cao đời sống nhân dân",
+            "Cả a, b, c đều đúng."
+        ],
+        "correct": 3,
+        "explanation": "Cả a, b, c đều đúng."
+    },
+    {
+        "question": "Câu 3: Nguồn lực quyết định công nghiệp hoá, hiện đại hoá ở nước ta.",
+        "options": [
+            "Vốn đầu tư trong nước và nước ngoài.",
+            "Con người Việt Nam.",
+            "Tài nguyên đất đai.",
+            "Khoa học kỹ thuật."
+        ],
+        "correct": 1,
+        "explanation": "Con người Việt Nam."
+    },
+    {
+        "question": "Câu 4: Quan điểm phát triển kinh tế xã hội nào sau đây đúng nhất?",
+        "options": [
+            "Nước ta đi lên Chủ nghĩa xã hội có nhiều hình thức sở hữu với nhiều thành phần kinh tế tương ứng.",
+            "Nước ta đi lên Chủ nghĩa xã hội có nhiều hình thức sở hữu và chỉ có thành phần kinh tế Nhà nước.",
+            "Nước ta đi lên Chủ nghĩa xã hội có 2 hình thức sở hữu và 6 thành phần kinh tế cơ bản.",
+            "Cả a, b, c đều đúng."
+        ],
+        "correct": 0,
+        "explanation": "Nước ta đi lên Chủ nghĩa xã hội có nhiều hình thức sở hữu với nhiều thành phần kinh tế tương ứng."
+    },
+    {
+        "question": "Câu 5: Nền kinh tế tri thức được xem là:",
+        "options": [
+            "Một phương thức sản xuất mới.",
+            "Một giai đoạn phát triển của Chủ nghĩa tư bản hiện đại.",
+            "Một hình thái kinh tế ­ xã hội mới.",
+            "Một nấc thang phát triển của lực lượng sản xuất."
+        ],
+        "correct": 3,
+        "explanation": "Một nấc thang phát triển của lực lượng sản xuất."
+    },
+    {
+        "question": "Câu 6: Sở hữu tập thể là:",
+        "options": [
+            "Sở hữu của hợp tác xã",
+            "Sở hữu của một nhóm người",
+            "Sở hữu của tổ sản xuất",
+            "Là hình thức sở hữu chung của những người lao động trực tiếp."
+        ],
+        "correct": 3,
+        "explanation": "Là hình thức sở hữu chung của những người lao động trực tiếp."
+    },
+    {
+        "question": "Câu 7: Phân phối theo vốn kết hợp với phân phối theo lao động?",
+        "options": [
+            "Áp dụng cho kinh tế tập thể",
+            "Áp dụng cho kinh tế nhà nước và kinh tế tập thể",
+            "Áp dụng cho các hợp tác xã",
+            "Áp dụng cho kinh tế tập thể và kinh tế tư bản nhà nước"
+        ],
+        "correct": 3,
+        "explanation": "Áp dụng cho kinh tế tập thể và kinh tế tư bản nhà nước"
+    },
+    {
+        "question": "Câu 8: Phân phối theo lao động là?",
+        "options": [
+            "Lao động ngang nhau, trả công bằng nhau.",
+            "Phân phối theo số lượng lao động và chất lượng lao động đã cống hiến cho xã hội.",
+            "Phân phối theo sức lao động.",
+            "Trả công lao động theo năng suất lao động."
+        ],
+        "correct": 1,
+        "explanation": "Phân phối theo số lượng lao động và chất lượng lao động đã cống hiến cho xã hội."
+    },
+    {
+        "question": "Câu 9: Trong nền kinh tế theo định hướng Xã hội chủ nghĩa, thành phần kinh tế nào đóng vai trò chủ đạo?",
+        "options": [
+            "Kinh tế Nhà nước",
+            "Kinh tế Nhà nước và kinh tế tập thể (nòng cốt là hợp tác xã)",
+            "Kinh tế Tư bản tư nhân.",
+            "Kinh tế có vốn đầu tư nước ngoài."
+        ],
+        "correct": 0,
+        "explanation": "Kinh tế Nhà nước"
+    },
+    {
+        "question": "Câu 10: Hiện nay ở nước ta có những hình thức sở hữu nào?",
+        "options": [
+            "Sở hữu toàn dân, sở hữu tập thể, sở hữu tư nhân, sở hữu hỗn hợp.",
+            "Sở hữu toàn dân, sở hữu tư nhân, sở hữu hỗn hợp",
+            "Sở hữu toàn dân, sở hữu tập thể, sở hữu tư nhân.",
+            "Sở hữu nhà nước, sở hữu hợp tác, sở hữu tập thể."
+        ],
+        "correct": 0,
+        "explanation": "Sở hữu toàn dân, sở hữu tập thể, sở hữu tư nhân, sở hữu hỗn hợp."
+    },
+    {
+        "question": "Câu 11: Hiện nay ở nước ta có mấy thành phần kinh tế cơ bản?",
+        "options": [
+            "5 thành phần.",
+            "6 thành phần.",
+            "7 thành phần.",
+            "8 thành phần."
+        ],
+        "correct": 0,
+        "explanation": "5 thành phần."
+    },
+    {
+        "question": "Câu 12: Hình thức kinh doanh hợp tác xã vận tải đường bộ thuộc thành phần kinh tế nào?",
+        "options": [
+            "Kinh tế tập thể.",
+            "Kinh tế nhà nước.",
+            "Kinh tế cá thể, tiểu chủ",
+            "Kinh tế tư bản tư nhân."
+        ],
+        "correct": 0,
+        "explanation": "Kinh tế tập thể."
+    },
+    {
+        "question": "Câu 13: \"Công ty Trách nhiệm hữu hạn Phát Tài\" thuộc thành phần kinh tế nào?",
+        "options": [
+            "Kinh tế tập thể.",
+            "Kinh tế nhà nước.",
+            "Kinh tế cá thể, tiểu chủ",
+            "Kinh tế tư nhân."
+        ],
+        "correct": 3,
+        "explanation": "Kinh tế tư nhân."
+    },
+    {
+        "question": "Câu 14: \"Công ty Liên doanh Viet - Xô pestro\" thuộc thành phần kinh tế nào?",
+        "options": [
+            "Kinh tế tập thể.",
+            "Kinh tế nhà nước.",
+            "Kinh tế tư bản nhà nước",
+            "Kinh tế tư bản tư nhân."
+        ],
+        "correct": 2,
+        "explanation": "Kinh tế tư bản nhà nước"
+    },
+    {
+        "question": "Câu 15: Tại sao đổi mới lấy phát triển kinh tế là nhiệm vụ trọng tâm?",
+        "options": [
+            "Đưa đất nước ta thoát ra khỏi nghèo nàn và khắc phục nguy cơ tụt hậu xa hơn kinh tế.",
+            "Giữ được ổn định về chính trị, tăng cường sức mạnh quốc phòng, an ninh.",
+            "Bảo vệ được độc lập chủ quyền và định hướng Xã hội chủ nghĩa.",
+            "Cả a, b, c đều đúng."
+        ],
+        "correct": 0,
+        "explanation": "Đưa đất nước ta thoát ra khỏi nghèo nàn và khắc phục nguy cơ tụt hậu xa hơn kinh tế."
+    },
+    {
+        "question": "Câu 16: Kinh tế thị trường là?",
+        "options": [
+            "Kiểu tổ chức kinh tế tiến bộ của loài người.",
+            "Sản phẩm riêng có của phương thức sản xuất Tư bản chủ nghĩa.",
+            "Đối lập với nền kinh tế Xã hội chủ nghĩa.",
+            "Thành tựu của nền văn minh nhân loại và không đối lập với Chủ nghĩa xã hội."
+        ],
+        "correct": 3,
+        "explanation": "Thành tựu của nền văn minh nhân loại và không đối lập với Chủ nghĩa xã hội."
+    },
+    {
+        "question": "Câu 17: Sự khác nhau cơ bản giữa kinh tế thị trường định hướng Xã hội chủ nghĩa với kinh tế thị trường Tư bản chủ nghĩa là?",
+        "options": [
+            "Có sự điều tiết của nhà nước Xã hội chủ nghĩa.",
+            "Nền kinh tế nhiều thành phần.",
+            "Vai trò chủ đạo của kinh tế nhà nước.",
+            "Có nhiều hình thức sở hữu Tư liệu sản xuất."
+        ],
+        "correct": 0,
+        "explanation": "Có sự điều tiết của nhà nước Xã hội chủ nghĩa."
+    },
+    {
+        "question": "Câu 18: Một nước công nghiệp hiện đại cần thỏa mãn tiêu chí nào?",
+        "options": [
+            "Tiêu chí phản ánh trình độ phát triển của nền Kinh tế.",
+            "Tiêu chí phản ánh trình độ phát triển về mặt Xã hội.",
+            "Tiêu chí phản ánh trình độ phát triển về môi trường.",
+            "Cả a, b, c đều đúng."
+        ],
+        "correct": 3,
+        "explanation": "Cả a, b, c đều đúng."
+    },
+    {
+        "question": "Câu 19: Đâu không phải là quan điểm của Đảng ta về việc giải quyết các vấn đề của Xã hội trong thời kỳ đổi mới?",
+        "options": [
+            "Gắn kết chính sách kinh tế với chính sách xã hội.",
+            "Phát triển kinh tế với nâng cao chất lượng cuộc sống của nhân dân.",
+            "Đề ra chính sách để phân hóa giàu nghèo giữa các tầng lớp dân cư.",
+            "Giải quyết tốt lao động, việc làm và thu nhập cho người dân."
+        ],
+        "correct": 2,
+        "explanation": "Đề ra chính sách để phân hóa giàu nghèo giữa các tầng lớp dân cư."
+    },
+    {
+        "question": "Câu 20: Văn hóa là gì?",
+        "options": [
+            "Văn hoá là toàn bộ những giá trị vật chất do con người sáng tạo ra trong lịch sử.",
+            "Văn hoá là toàn bộ những giá trị vật chất và tâm linh do con người sáng tạo ra trong lịch sử.",
+            "Văn hoá là toàn bộ những giá trị vật chất và tinh thần do con người sáng tạo ra trong lịch sử.",
+            "Văn hoá là toàn bộ những giá trị tinh thần do con người sáng tạo ra trong lịch sử."
+        ],
+        "correct": 2,
+        "explanation": "Văn hoá là toàn bộ những giá trị vật chất và tinh thần do con người sáng tạo ra trong lịch sử."
+    },
+    {
+        "question": "Câu 21: Văn hóa có vai trò như thế nào đối với đời sống?",
+        "options": [
+            "Văn hoá vừa là nền tảng tinh thần của xã hội, là mục tiêu, là động lực thúc đẩy sự phát triển Kinh tế - Xã hội.",
+            "Văn hóa khơi dậy tiềm năng phát huy sức sáng tạo của con người.",
+            "Cả a và b đều đúng.",
+            "Cả a và b đều sai."
+        ],
+        "correct": 2,
+        "explanation": "Cả a và b đều đúng."
+    },
+    {
+        "question": "Câu 22: Đâu là chức năng của văn hóa?",
+        "options": [
+            "Giáo dục nhận thức, tư tưởng, tình cảm và giáo dục hành động. Định hình các giá trị, chuẩn mực đời sống xã hội.",
+            "Thuần mỹ, hướng con người đến cái đẹp Chân - Thiện - Mỹ.",
+            "Giải trí, góp phần hoàn thiện con người và dự báo tương lai phát triển của xã hội.",
+            "Cả a, b, c đều đúng."
+        ],
+        "correct": 3,
+        "explanation": "Cả a, b, c đều đúng."
+    },
+    {
+        "question": "Câu 23: Nền văn hóa mà chúng ta đang xây dựng là nền văn hóa?",
+        "options": [
+            "Có nội dung xã hội chủ nghĩa, tính chất dân tộc.",
+            "Tiên tiến, đậm đà bản sắc dân tộc.",
+            "Tiên tiến.",
+            "Mang bản sắc dân tộc."
+        ],
+        "correct": 1,
+        "explanation": "Tiên tiến, đậm đà bản sắc dân tộc."
+    },
+    {
+        "question": "Câu 24: Nền văn hóa tiên tiến thể hiện?",
+        "options": [
+            "Tinh thần yêu nước và tiến bộ.",
+            "Độc lập dân tộc và chủ nghĩa xã hội.",
+            "Tất cả vì con người .",
+            "Cả a, b, c đều đúng."
+        ],
+        "correct": 3,
+        "explanation": "Cả a, b, c đều đúng."
+    },
+    {
+        "question": "Câu 25: Nền văn hóa đậm đà bản sắc dân tộc là gì?",
+        "options": [
+            "Là nền văn hoá chứa đựng những yếu tố tạo ra sức sống, bản lĩnh dân tộc.",
+            "Bao gồm những giá trị bền vững, những tinh hoa của cộng đồng các dân tộc Việt Nam được đúc rút qua hàng nghìn năm lịch sử.",
+            "Cả a và b đều đúng.",
+            "Cả a và b đều sai."
+        ],
+        "correct": 2,
+        "explanation": "Cả a và b đều đúng."
+    },
+    {
+        "question": "Câu 26: Một trong những nhiệm vụ của văn hóa là:",
+        "options": [
+            "Tiếp thu truyền thống văn hóa của nhân loại.",
+            "Tiếp thu tinh hoa văn hóa của nhân loại.",
+            "Tiếp thu giá trị văn hóa của nhân loại.",
+            "Tiếp thu di sản của nhân loại."
+        ],
+        "correct": 1,
+        "explanation": "Tiếp thu tinh hoa văn hóa của nhân loại."
+    },
+    {
+        "question": "Câu 27: Để xây dựng nền văn hóa tiên tiến đậm đà bản sắc dân tộc, chúng ta cần phải?",
+        "options": [
+            "Giữ nguyên truyền thống của dân tộc.",
+            "Tiếp thu tinh hoa văn hóa của nhân loại.",
+            "Xóa bỏ tất cả những gì đã thuộc về quá khứ.",
+            "Kế thừa, phát huy những di sản và truyền thống văn hóa của dân tộc, tiếp thu những tinh hoa văn hóa của nhân loại."
+        ],
+        "correct": 3,
+        "explanation": "Kế thừa, phát huy những di sản và truyền thống văn hóa của dân tộc, tiếp thu những tinh hoa văn hóa của nhân loại."
+    },
+    {
+        "question": "Câu 28: Xây dựng và phát triển kinh tế phải nhằm mục tiêu văn hóa, hướng đến xã hội?",
+        "options": [
+            "Công bằng, dân chủ, văn minh, con người hạnh phúc, phát triển toàn diện.",
+            "Công bằng, dân chủ, văn minh, phát triển toàn diện.",
+            "Tự do, công bằng, dân chủ, văn minh, con người hạnh phúc.",
+            "Dân giàu, công bằng, dân chủ, văn minh, con người hạnh phúc, phát triển toàn diện."
+        ],
+        "correct": 0,
+        "explanation": "Công bằng, dân chủ, văn minh, con người hạnh phúc, phát triển toàn diện."
+    },
+    {
+        "question": "Câu 29: Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc là?",
+        "options": [
+            "Mục tiêu thúc đẩy sự phát triển kinh tế xã hội.",
+            "Vừa là mục tiêu vừa là động lực thúc đẩy sự phát triển kinh tế xã hội.",
+            "Là động lực thúc đẩy sự phát triển kinh tế xã hội.",
+            "Là tương lai của sự phát triển kinh tế xã hội."
+        ],
+        "correct": 1,
+        "explanation": "Vừa là mục tiêu vừa là động lực thúc đẩy sự phát triển kinh tế xã hội."
+    },
+    {
+        "question": "Câu 30: Xây dựng và phát triển văn hóa là sự nghiệp của ai?",
+        "options": [
+            "Của toàn dân do Đảng lãnh đạo.",
+            "Của Đảng, Nhà nước và Mặt trận Tổ quốc.",
+            "Của các đoàn thể nhân dân.",
+            "Của các hội gia đình và các cá nhân tham gia hoạt động văn hóa."
+        ],
+        "correct": 0,
+        "explanation": "Của toàn dân do Đảng lãnh đạo."
+    }
+]

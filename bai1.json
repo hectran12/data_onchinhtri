@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Câu 1: Chủ nghĩa Mác – Lênin ra đời vào thời gian nào?",
+        "options": [
+            "Vào những năm 40 của thế kỷ XVII.",
+            "Vào những năm 40 của thế kỷ XIX.",
+            "Vào những năm 40 của thế kỷ XVIII",
+            "Vào những năm 40 của thế kỷ XX"
+        ],
+        "correct": 1,
+        "explanation": "Vào những năm 40 của thế kỷ XIX."
+    },
+    {
+        "question": "Câu 2: Ai là người sáng lập ra chủ nghĩa Mác?",
+        "options": [
+            "Các Mác",
+            "Mác và Ph.Ăngghen.",
+            "Các Mác và Lênin.",
+            "Mác, Ph.Ăngghen và Lênin."
+        ],
+        "correct": 1,
+        "explanation": "Mác và Ph.Ăngghen."
+    },
+    {
+        "question": "Câu 3: Chủ nghĩa Mác – Lênin do ai sáng lập và phát triển?",
+        "options": [
+            "Mác và Lênin.",
+            "Mác và Ăngghen.",
+            "Mác, Ăngghen và Lênin.",
+            "Ăngghen và Lênin."
+        ],
+        "correct": 2,
+        "explanation": "Mác, Ăngghen và Lênin."
+    },
+    {
+        "question": "Câu 4: Sự ra đời của Chủ nghĩa Mác dựa trên những điều kiện, tiền đề nào?",
+        "options": [
+            "Điều kiện kinh tế-xã hội.",
+            "Tiền đề lý luận.",
+            "Tiền đề khoa học.",
+            "Tất cả các tiền đề trên đều đúng."
+        ],
+        "correct": 3,
+        "explanation": "Tất cả các tiền đề trên đều đúng."
+    },
+    {
+        "question": "Câu 5: Xã hội Tư bản phát triển làm nảy sinh mâu thuẫn giữa giai cấp nào?",
+        "options": [
+            "Giai cấp Tư sản và Giai cấp Vô sản.",
+            "Địa chủ và Nông dân.",
+            "Chủ nô và Nô lệ.",
+            "Tất cả đều đúng."
+        ],
+        "correct": 0,
+        "explanation": "Giai cấp Tư sản và Giai cấp Vô sản."
+    },
+    {
+        "question": "Câu 6: Phong trào đấu tranh của giai cấp vô sản đã phát triển như thế nào?",
+        "options": [
+            "Phát triển tự phát.",
+            "Phát triển từ tự phát đến tự giác, từ đấu KT tế đến đấu tranh chính trị.",
+            "Phát triển tự giác.",
+            "Phát triển từ đấu tranh kinh tế đến đấu tranh chính trị."
+        ],
+        "correct": 1,
+        "explanation": "Phát triển từ tự phát đến tự giác, từ đấu KT tế đến đấu tranh chính trị."
+    },
+    {
+        "question": "Câu 7: Mác và Ănghen đã kế thừa những di sản lý luận nào để xây dựng nên học thuyết của mình?",
+        "options": [
+            "Triết học cổ điển Đức và Kinh tế chính trị cổ điển Anh.",
+            "Kinh tế chính trị cổ điển Anh và Chủ nghĩa xã hội.",
+            "Triết học cổ điển Đức và Kinh tế chính trị cổ điển Anh và Chủ nghĩa xã hội khoa học.",
+            "Triết học cổ điển Đức và Kinh tế chính trị cổ điển Anh và Chủ nghĩa xã hội không tưởng Pháp."
+        ],
+        "correct": 3,
+        "explanation": "Triết học cổ điển Đức và Kinh tế chính trị cổ điển Anh và Chủ nghĩa xã hội không tưởng Pháp."
+    },
+    {
+        "question": "Câu 8: Các Mác và Ph.Ănghen đã trực tiếp kế thừa Triết học cổ điển Đức của các đại biểu nào?",
+        "options": [
+            "Can tơ, Hê ghen và Phơ bách.",
+            "Adamsmít và Đavít Ricacdo.",
+            "Xanh xi mông, Phu riê, Ôoen.",
+            "Đắc uyn và Lô mô nô xốp."
+        ],
+        "correct": 0,
+        "explanation": "Can tơ, Hê ghen và Phơ bách."
+    },
+    {
+        "question": "Câu 9: Mác và Ănghen đã trực tiếp kế thừa Kinh tế chính trị cổ điển Anh của các đại biểu nào?",
+        "options": [
+            "Can tơ, Hê ghen và Phơ bách.",
+            "Adamsmít và Đavít Ricacdo.",
+            "Xanh xi mông, Phu riê, Ôoen.",
+            "Đắc uyn và Lô mô nô xốp."
+        ],
+        "correct": 1,
+        "explanation": "Adamsmít và Đavít Ricacdo."
+    },
+    {
+        "question": "Câu 10: Mác và Ănghen đã trực tiếp kế thừa CNXH không tưởng Pháp của các đại biểu nào?",
+        "options": [
+            "Can tơ, Hê ghen và Phơ bách.",
+            "Adamsmít và Đavít Ricacdo.",
+            "Xanh xi mông, Phu riê.",
+            "Đắc uyn và Lô mô nô xốp."
+        ],
+        "correct": 2,
+        "explanation": "Xanh xi mông, Phu riê."
+    },
+    {
+        "question": "Câu 11: Chủ nghĩa Mác ra đời dựa trên những thành tựu khoa học nào?",
+        "options": [
+            "Triết học cổ điển Đức và Kinh tế chính trị cổ điển Anh và Chủ nghĩa xã hội khoa học.",
+            "Thuyết tiến hóa giống loài; Thuyết tế bào; Định luật bảo toàn và chuyển hóa năng lượng.",
+            "Triết học cổ điển Đức và Kinh tế chính trị cổ điển Anh và Chủ nghĩa xã hội không tưởng Pháp.",
+            "Tất cả đều đúng."
+        ],
+        "correct": 1,
+        "explanation": "Thuyết tiến hóa giống loài; Thuyết tế bào; Định luật bảo toàn và chuyển hóa năng lượng."
+    },
+    {
+        "question": "Câu 12: Chủ nghĩa Mác – Lênin được cấu thành từ những bộ phận nào?",
+        "options": [
+            "Triết học Mác – Lênin và Kinh tế chính trị Mác – Lênin.",
+            "Kinh tế chính trị Mác – Lênin và Chủ nghĩa xã hội.",
+            "Triết học cổ điển Đức và Kinh tế chính trị cổ điển Anh và Chủ nghĩa xã hội khoa học.",
+            "Triết học Mác – Lênin; Kinh tế chính trị Mác – Lênin và Chủ nghĩa xã hội khoa học."
+        ],
+        "correct": 3,
+        "explanation": "Triết học Mác – Lênin; Kinh tế chính trị Mác – Lênin và Chủ nghĩa xã hội khoa học."
+    },
+    {
+        "question": "Câu 13: Các Mác sinh và mất ngày, tháng, năm nào?",
+        "options": [
+            "05/05/1818 – 14/03/1883.",
+            "05/05/1820 – 14/03/1883.",
+            "05/08/1818 – 24/03/1895",
+            "08/05/1820 – 14/03/1895."
+        ],
+        "correct": 0,
+        "explanation": "05/05/1818 – 14/03/1883."
+    },
+    {
+        "question": "Câu 14: Phri đrích Ăngghen sinh và mất ngày, tháng, năm nào?",
+        "options": [
+            "05/05/1818 – 14/03/1883.",
+            "05/08/1820 – 14/03/1883.",
+            "28/11/1820 – 05/08/1895",
+            "08/05/1820 – 28/11/1895."
+        ],
+        "correct": 2,
+        "explanation": "28/11/1820 – 05/08/1895"
+    },
+    {
+        "question": "Câu 15: Vla đimia Ilich Lênin sinh và mất ngày, tháng, năm nào?",
+        "options": [
+            "21/01/1870 – 24/03/1924.",
+            "21/01/1870 – 22/04/1924.",
+            "22/04/1890 – 21/01/1924",
+            "22/04/1870 – 21/01/1924."
+        ],
+        "correct": 3,
+        "explanation": "22/04/1870 – 21/01/1924."
+    },
+    {
+        "question": "Câu 16: Ai là nguời đã bảo vệ, vận dụng sáng tạo và phát triển lý luận của Mác và Ănghen?",
+        "options": [
+            "Lênin.",
+            "Hồ Chí Minh.",
+            "Ma khơ.",
+            "Đê môcrít."
+        ],
+        "correct": 0,
+        "explanation": "Lênin."
+    },
+    {
+        "question": "Câu 17: Thời kỳ Lê nin bảo vệ, vận dụng và phát triển chủ nghĩa Mác, CNTB đã chuyển sang giai đoạn nào?",
+        "options": [
+            "CNTB Độc quyền.",
+            "Chủ nghĩa Đế quốc.",
+            "CNTB tự do cạnh tranh",
+            "CNTB giai đoạn tích lũy tư bản để phát triển."
+        ],
+        "correct": 1,
+        "explanation": "Chủ nghĩa Đế quốc."
+    },
+    {
+        "question": "Câu 18: Lênin vận dụng lý luận của Mác và Ăng ghen đã lãnh đạo thành công cuộc cách mạng nào?",
+        "options": [
+            "Cách mạng tháng 8/1945.",
+            "Cách mạng Tư sản Mỹ năm 1776.",
+            "Cách mạng tháng 8/ 1954.",
+            "Cách mạng tháng 10 Nga 1917."
+        ],
+        "correct": 3,
+        "explanation": "Cách mạng tháng 10 Nga 1917."
+    },
+    {
+        "question": "Câu 19: Triết học Mác –Lê nin bao gồm?",
+        "options": [
+            "CNDV biện chứng và CNDV lịch sử.",
+            "CNDV biện chứng và CNDV khoa học.",
+            "CNDT biện chứng và CNDV lịch sử.",
+            "CNDV biện chứng và CNDT lịch sử."
+        ],
+        "correct": 0,
+        "explanation": "CNDV biện chứng và CNDV lịch sử."
+    },
+    {
+        "question": "Câu 20: Bộ phận nào của Chủ nghĩa Mác – Lênin đóng vai trò phát hiện và luận giải về quá trình tất yếu dẫn đến sự hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+        "options": [
+            "Triết học Mác – Lênin.",
+            "Kinh tế chính trị Mác – Lênin.",
+            "Chủ nghĩa xã hội khoa học.",
+            "Cả a,b,c đều đúng."
+        ],
+        "correct": 2,
+        "explanation": "Chủ nghĩa xã hội khoa học."
+    }
+]

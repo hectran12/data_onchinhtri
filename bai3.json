@@ -1,0 +1,211 @@
+[
+    {
+        "question": "Câu 1: Chiến tranh thế giới thứ nhất diễn ra vào thời gian nào?",
+        "options": [
+            "1914 – 1918",
+            "1910-1915",
+            "1912 – 1916",
+            "1919 – 1929"
+        ],
+        "correct": 0,
+        "explanation": "1914 – 1918"
+    },
+    {
+        "question": "Câu 2: Thực dân Pháp nổ súng xâm lược Việt Nam vào năm nào?",
+        "options": [
+            "Năm 1897",
+            "Năm 1914",
+            "Năm 1858",
+            "Năm 1919."
+        ],
+        "correct": 2,
+        "explanation": "Năm 1858"
+    },
+    {
+        "question": "Câu 3: Thực dân Pháp tiến hành khai thác thuộc địa lần thứ nhất ở Việt Nam thời gian nào?",
+        "options": [
+            "1858-1884",
+            "1884-1896",
+            "1897-1914",
+            "1914-1918"
+        ],
+        "correct": 2,
+        "explanation": "1897-1914"
+    },
+    {
+        "question": "Câu 4: Thực dân Pháp tiến hành khai thác thuộc địa lần thứ 2 ở Việt Nam vào thời gian nào?",
+        "options": [
+            "1858-1884",
+            "1884-1896",
+            "1897-1914",
+            "1919-1929"
+        ],
+        "correct": 3,
+        "explanation": "1919-1929"
+    },
+    {
+        "question": "Câu 5: Chương trình khai thác thuộc địa của Pháp đã làm cho xã hội Việt Nam phân hóa thành những giai cấp, tầng lớp nào?",
+        "options": [
+            "Nông dân, tư sản, vô sản, tiểu tư sản",
+            "Tư sản, vô sản, tiểu tư sản",
+            "Địa chủ phong kiến, tư sản, vô sản,",
+            "Địa chủ phong kiến, nông dân, tư sản, vô sản, tiểu tư sản"
+        ],
+        "correct": 3,
+        "explanation": "Địa chủ phong kiến, nông dân, tư sản, vô sản, tiểu tư sản"
+    },
+    {
+        "question": "Câu 6: Phong trào Cần Vương do Tôn Thất Thuyết lãnh đạo diễn ra vào thời gian nào?",
+        "options": [
+            "1885 - 1896",
+            "1895 – 1913",
+            "1904 – 1908",
+            "1906 – 1908"
+        ],
+        "correct": 0,
+        "explanation": "1885 - 1896"
+    },
+    {
+        "question": "Câu 7: Khởi nghĩa Yên Thế do Hoàng Hoa Thám lãnh đạo diễn ra vào thời gian nào?",
+        "options": [
+            "1885 - 1896",
+            "1884 – 1913",
+            "1904 – 1908",
+            "1906 – 1908"
+        ],
+        "correct": 1,
+        "explanation": "1884 – 1913"
+    },
+    {
+        "question": "Câu 8: Phong trào Đông Du do Phan Bội Châu lãnh đạo diễn ra vào thời gian nào?",
+        "options": [
+            "1885 - 1896",
+            "1895 – 1913",
+            "1904 – 1908",
+            "1906 – 1908"
+        ],
+        "correct": 2,
+        "explanation": "1904 – 1908"
+    },
+    {
+        "question": "Câu 9: Phong trào Đông Kinh nghĩa Thục do Lương Văn Can lãnh đạo diễn ra vào thời gian nào?",
+        "options": [
+            "1906",
+            "1907",
+            "1908",
+            "1909"
+        ],
+        "correct": 1,
+        "explanation": "1907"
+    },
+    {
+        "question": "Câu 10: Phong trào Duy Tân do Phan Chu Trinh lãnh đạo diễn ra vào thời gian nào?",
+        "options": [
+            "1885 - 1896",
+            "1895 – 1913",
+            "1904 – 1908",
+            "1906 – 1908"
+        ],
+        "correct": 2,
+        "explanation": "1904 – 1908"
+    },
+    {
+        "question": "Câu 11: Tổ chức cộng sản nào ra đời đầu tiên ở Việt Nam?",
+        "options": [
+            "Hội Việt Nam cách mạng thanh niên.",
+            "Đông Dương cộng sản Đảng.",
+            "An Nam cộng sản Đảng",
+            "Đông Dương cộng sản liên đoàn."
+        ],
+        "correct": 1,
+        "explanation": "Đông Dương cộng sản Đảng."
+    },
+    {
+        "question": "Câu 12: Tổ chức Đông Dương cộng sản ra đời vào thời gian nào?",
+        "options": [
+            "Tháng 6/ 1929.",
+            "Tháng 8/1929.",
+            "Tháng 9/1929",
+            "Tháng 2/1930."
+        ],
+        "correct": 0,
+        "explanation": "Tháng 6/ 1929."
+    },
+    {
+        "question": "Câu 13: Tổ chức An Nam cộng sản Đảng ra đời vào thời gian nào?",
+        "options": [
+            "Tháng 6/ 1929.",
+            "Tháng 8/1929.",
+            "Tháng 9/1929",
+            "Tháng 2/1930."
+        ],
+        "correct": 1,
+        "explanation": "Tháng 8/1929."
+    },
+    {
+        "question": "Câu 14: Tổ chức Đông Dương cộng sản Liên đoàn ra đời vào thời gian nào?",
+        "options": [
+            "Tháng 6/ 1929.",
+            "Tháng 8/1929.",
+            "Tháng 9/1929",
+            "Tháng 2/1930."
+        ],
+        "correct": 2,
+        "explanation": "Tháng 9/1929"
+    },
+    {
+        "question": "Câu 15: Sắp xếp theo thứ tự thời gian ra đời của 3 tổ chức cộng sản đầu tiên của giai cấp công nhân?",
+        "options": [
+            "Đông Dương cộng sản Đảng; An Nam Cộng sản Đảng; Đông Dương Cộng sản Liên đoàn.",
+            "An Nam Cộng sản Đảng; Đông Dương cộng sản Đảng; Đông Dương Cộng sản Liên đoàn.",
+            "Đông Dương Cộng sản Liên đoàn; Đông Dương cộng sản Đảng; An Nam Cộng sản Đảng.",
+            "Cả a, b, c đều sai."
+        ],
+        "correct": 0,
+        "explanation": "Đông Dương cộng sản Đảng; An Nam Cộng sản Đảng; Đông Dương Cộng sản Liên đoàn."
+    },
+    {
+        "question": "Câu 16: Hội nghị hợp nhất các tổ chức cộng sản cho ra đời Đảng cộng sản Việt Nam diễn ra từ thời gian nào? Ở đâu?",
+        "options": [
+            "Từ ngày 3-7/2/1930 ; Tại Cửu Long (Hương cảng – Trung Quốc).",
+            "Từ ngày 3-7/2/1930 ; Tại Quảng Châu – Trung Quốc.",
+            "Từ ngày 3-7/2/1930 ; Tại Cửu Long (Thượng Hải – Trung Quốc).",
+            "Từ ngày 3-7/2/1930 ; Tại Quảng Châu (Hương Cảng – Trung Quốc)."
+        ],
+        "correct": 0,
+        "explanation": "Từ ngày 3-7/2/1930 ; Tại Cửu Long (Hương cảng – Trung Quốc)."
+    },
+    {
+        "question": "Câu 17: Ai là người chủ trì Hội nghị hợp nhất các tổ chức cộng sản cho ra đời Đảng Cộng sản Việt Nam?",
+        "options": [
+            "Nguyễn Ái Quốc.",
+            "Trần Phú.",
+            "Hà Huy Tập.",
+            "Lê Hồng Phong."
+        ],
+        "correct": 0,
+        "explanation": "Nguyễn Ái Quốc."
+    },
+    {
+        "question": "Câu 18: Hội nghị Hợp nhất thành lập Đảng Cộng sản Việt Nam (3/2/1930) thông qua các văn kiện nào sau đây?",
+        "options": [
+            "Chánh cương vắn tắt.",
+            "Sách lược vắn tắt",
+            "Điều lệ vắn tắt và Chương trình vắn tắt",
+            "Cả a, b, c đều đúng."
+        ],
+        "correct": 3,
+        "explanation": "Cả a, b, c đều đúng."
+    },
+    {
+        "question": "Câu 19: Điền từ còn thiếu vào chỗ trống: \"Đảng Cộng sản Việt Nam ra đời Là sản phẩm của sự kết hợp chủ nghĩa Mác - Lênin, với phong trào công nhân và…… ở nước ta.\"",
+        "options": [
+            "Chủ nghĩa yêu nước",
+            "Tinh thần yêu nước.",
+            "Phong trào yêu nước",
+            "Tinh thần dân tộc."
+        ],
+        "correct": 2,
+        "explanation": "Phong trào yêu nước"
+    }
+]

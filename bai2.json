@@ -1,0 +1,223 @@
+[
+    {
+        "question": "Câu 1: Chủ tịch Hồ Chí Minh sinh ngày, tháng năm nào? Tại đâu?",
+        "options": [
+            "Ngày 19/5/1890; Tại làng Sen, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An.",
+            "Ngày 19/5/1890; Tại làng Hoàng Trù, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An.",
+            "Ngày 19/5/1890; Tại làng Kim Liên, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An.",
+            "Ngày 19/5/1890; Tại làng Hàng Trù, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An."
+        ],
+        "correct": 1,
+        "explanation": "Ngày 19/5/1890; Tại làng Hoàng Trù, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An."
+    },
+    {
+        "question": "Câu 2: Thời thơ ấu Chủ tịch Hồ Chí Minh có tên là gì?",
+        "options": [
+            "Nguyễn Tất Thành",
+            "Nguyễn Tất Đạt",
+            "Nguyễn Sinh Cung.",
+            "Nguyễn Sinh Khiêm."
+        ],
+        "correct": 2,
+        "explanation": "Nguyễn Sinh Cung."
+    },
+    {
+        "question": "Câu 3: Thân phụ và thân mẫu của Chủ tịch Hồ Chí Minh là ai?",
+        "options": [
+            "Nguyễn Sinh Sắc và Hoàng Thị Loan.",
+            "Nguyễn Sinh Khiêm và Hoàng Thị Loan.",
+            "Nguyễn Sinh Sắc và Hoàng Thị Lan.",
+            "Nguyễn Sinh Sắc và Nguyễn Thị Loan."
+        ],
+        "correct": 0,
+        "explanation": "Nguyễn Sinh Sắc và Hoàng Thị Loan."
+    },
+    {
+        "question": "Câu 4: Gia đình Bác Hồ có mấy anh chị em? Kể tên?",
+        "options": [
+            "3 anh chị em: Nguyễn Sinh Khiêm, Nguyễn Thị Thanh, Nguyễn Sinh Cung.",
+            "4 anh chị em: Nguyễn Sinh Khiêm, Nguyễn Thị Thanh, Nguyễn Sinh Cung, Nguyễn Sinh Sắc.",
+            "4 anh chị em: Nguyễn Sinh Khiêm, Nguyễn Thị Thanh, Nguyễn Sinh Cung, Nguyễn Sinh Xin.",
+            "4 anh chị em: Nguyễn Sinh Khiêm, Nguyễn Thị Thanh, Nguyễn Sinh Cung, Nguyễn Sinh Huy."
+        ],
+        "correct": 2,
+        "explanation": "4 anh chị em: Nguyễn Sinh Khiêm, Nguyễn Thị Thanh, Nguyễn Sinh Cung, Nguyễn Sinh Xin."
+    },
+    {
+        "question": "Câu 5: Nguyễn Sinh Cung đến Huế lần thứ nhất vào năm nào?",
+        "options": [
+            "Năm 1895.",
+            "Năm 1896.",
+            "Năm 1898.",
+            "Năm 1901."
+        ],
+        "correct": 0,
+        "explanation": "Năm 1895."
+    },
+    {
+        "question": "Câu 6: Nguyễn Tất Thành vào học trường Pháp –Việt Đông Ba năm nào?",
+        "options": [
+            "Năm 1905.",
+            "Năm 1906.",
+            "Năm 1907.",
+            "Năm 1908."
+        ],
+        "correct": 1,
+        "explanation": "Năm 1906."
+    },
+    {
+        "question": "Câu 7: Nguyễn Tất Thành trúng tuyển vào trường Quốc học Huế năm học nào?",
+        "options": [
+            "Năm học 1904-1905.",
+            "Năm 1905-1906.",
+            "Năm 1906-1907.",
+            "Năm 1907-1908."
+        ],
+        "correct": 3,
+        "explanation": "Năm 1907-1908."
+    },
+    {
+        "question": "Câu 8: Nguyễn Tất Thành đã dừng chân ở Phan Thiết vào năm nào? Làm gì ở đó?",
+        "options": [
+            "Tháng 9/1909 dạy học ở Trường Dục Thanh.",
+            "Tháng 9/1910 dạy học ở Trường Dục Thanh.",
+            "Tháng 9/1911 dạy học ở Trường Dục Thanh.",
+            "Tháng 9/1912 dạy học ở Trường Dục Thanh."
+        ],
+        "correct": 1,
+        "explanation": "Tháng 9/1910 dạy học ở Trường Dục Thanh."
+    },
+    {
+        "question": "Câu 9: Nguyễn Tất Thành đã tâm sự \"Tôi muốn đi ra ngoài xem nước Pháp và các nước khác làm như thế nào, tôi sẽ trở về giúp đồng bào chúng ta\". Câu nói đó vào thời gian nào?",
+        "options": [
+            "Năm 1909.",
+            "Năm 1910.",
+            "Năm 1911.",
+            "Năm 1912."
+        ],
+        "correct": 2,
+        "explanation": "Năm 1911."
+    },
+    {
+        "question": "Câu 10: Nguyễn Tất Thành ra đi tìm đường cứu nước vào thời gian nào? Ở đâu? Với tên gọi là gì?",
+        "options": [
+            "Ngày 5/6/1911, tại bến cảng Nhà Rồng với tên gọi là Văn Ba.",
+            "Ngày 6/5/1911, tại bến cảng Nhà Rồng với tên gọi là Văn Ba.",
+            "Ngày 5/6/1911, tại Nghệ An với tên gọi là Văn Ba.",
+            "Ngày 5/6/1911, tại bến cảng Nhà Rồng với tên gọi là Nguyễn Tất Thành."
+        ],
+        "correct": 0,
+        "explanation": "Ngày 5/6/1911, tại bến cảng Nhà Rồng với tên gọi là Văn Ba."
+    },
+    {
+        "question": "Câu 11: Từ tháng 6/1911 đến cuối 1913 Nguyễn Ái Quốc làm phụ bếp thủy thủ trên các tàu biển đi từ Đông nam Á sang châu Âu tới những nước nào?",
+        "options": [
+            "Pháp, Mỹ, Italia.",
+            "Tây Ban Nha, Bồ Đào Nhạ.",
+            "Các nước châu Phi.",
+            "Tất cả các nước trên."
+        ],
+        "correct": 3,
+        "explanation": "Tất cả các nước trên."
+    },
+    {
+        "question": "Câu 12: Từ năm 1914 đến cuối 1917 Ở nước Anh, Người đã làm những công việc gì?",
+        "options": [
+            "Đốt lò.",
+            "Quét tuyết.",
+            "Phụ bếp.",
+            "Tất cả các nghề trên."
+        ],
+        "correct": 3,
+        "explanation": "Tất cả các nghề trên."
+    },
+    {
+        "question": "Câu 13: Nguyễn Ái Quốc gia nhập Đảng Xã hội Pháp năm nào?",
+        "options": [
+            "1917.",
+            "1918.",
+            "1919.",
+            "1920."
+        ],
+        "correct": 1,
+        "explanation": "1918."
+    },
+    {
+        "question": "Câu 14: Nguyễn Ái Quốc gửi bản \"Yêu sách 8 điểm của nhân dân Việt Nam\" tới hội nghị Vécxay vào ngày tháng năm nào?",
+        "options": [
+            "18/6/1917",
+            "18/6/1918",
+            "18/6/1919",
+            "18/6/1920"
+        ],
+        "correct": 2,
+        "explanation": "18/6/1919"
+    },
+    {
+        "question": "Câu 15: Nguyễn Ái Quốc đọc \"Sơ thảo lần thứ nhất luận cương về vấn đề dân tộc và thuộc địa\" của V.I.Lênin vào thời gian nào?",
+        "options": [
+            "7/1919",
+            "7/1920",
+            "12/1920",
+            "12/1921."
+        ],
+        "correct": 1,
+        "explanation": "7/1920"
+    },
+    {
+        "question": "Câu 16: \"Luận cương của V.I.Lênin làm cho tôi rất cảm động, phấn khởi, sáng tạo tin tưởng biết bao.Tôi vui mừng đến phát khóc lên. Ngồi một mình trong buồng mà tôi nói to lên như đang nói trước quần chúng đông đảo: Hỡi đồng bào bị đọa đày đau khổ? Đây là cái cần thiết cho chúng ta, đây là đường giải phóng cho chúng ta!\" Nguyễn Ái Quốc nói câu ấy khi đang ở đâu?",
+        "options": [
+            "Ở Paris, Pháp",
+            "Ở Matxitcova, Nga.",
+            "Ở NiuYok, Mỹ",
+            "Ở London, Anh."
+        ],
+        "correct": 0,
+        "explanation": "Ở Paris, Pháp"
+    },
+    {
+        "question": "Câu 17: Nguyễn Ái Quốc dự Đại hội Tua, tán thành quốc tế III, tham gia thành lập Đảng Cộng Sản Pháp khi nào?",
+        "options": [
+            "12/1919",
+            "7/1920",
+            "12/1920",
+            "7/1921"
+        ],
+        "correct": 2,
+        "explanation": "12/1920"
+    },
+    {
+        "question": "Câu 18: Để truyền bá Chủ nghĩa Mác - Lênin vào trong phong trào công nhân và về Việt Nam Nguyễn Ái Quốc đã làm gì?",
+        "options": [
+            "Bán báo và đọc sách.",
+            "Cạo tuyết và Bồi bàn.",
+            "Viết Báo và viết các tác phẩm.",
+            "Cả a, b, c đều đúng."
+        ],
+        "correct": 2,
+        "explanation": "Viết Báo và viết các tác phẩm."
+    },
+    {
+        "question": "Câu 19: Cuối năm 1924 Người hoạt động ở đâu? Với tên gọi là gì?",
+        "options": [
+            "Trung Quốc-Lý Thụy.",
+            "Liên Xô-Linốp.",
+            "Thái Lan-Chín Thầu.",
+            "Cao Bằng-Già Thu."
+        ],
+        "correct": 0,
+        "explanation": "Trung Quốc-Lý Thụy"
+    },
+    {
+        "question": "Câu 20: Năm 1925 Nguyễn Ái Quốc đã sáng lập ra tổ chức nào? ở đâu?",
+        "options": [
+            "Hội Việt Nam cách mạng thanh niên, ở Trung Quốc",
+            "Việt Nam nghĩa đoàn ở Việt Nam.",
+            "Hội Phục Việt ở Việt Nam",
+            "Tâm tâm xã ở Trung Quốc."
+        ],
+        "correct": 0,
+        "explanation": "Hội Việt Nam cách mạng thanh niên, ở Trung Quốc"
+    }
+]
+   
